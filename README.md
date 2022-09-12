@@ -34,3 +34,7 @@ This analysis shows there is a high demand for short term rentals by males. Most
 
 
 ![EndPoint](https://user-images.githubusercontent.com/106126621/189555849-a6a7430c-abf1-4625-b5fc-a9c12a225a1f.png)
+
+
+Link to tablue story
+https://public.tableau.com/app/profile/brandon.duprel/viz/BikeSharingBusinessProposal/DesMoinesCitiBikeBreakdown?publish=yes
